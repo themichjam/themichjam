@@ -26,7 +26,7 @@ Apart from coding, I also maintain a website around my freelance writing - you c
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themichjam&layout=default&theme=dracula&custom_title=Languages Used" />
 </a>
 <a href="https://github.com/themichjam/themichjam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=themichjam&layout=default&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=themichjam&layout=default&theme=dracula" />
 </a>
 
 
