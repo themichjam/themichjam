@@ -26,7 +26,7 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 
 ---
 
-> There are three types of lies -- lies, damn lies, and statistics. - _Benjamin Disraeli_
+> "There are three types of lies -- lies, damn lies, and statistics." - _Benjamin Disraeli_
 
 
 
