@@ -29,7 +29,8 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 
 ## 🎧 Listening to Right Now
 
-[<img src="https://now-playing-themichjam.vercel.app/api/spotify-playing" alt="themichjam Spotify Playing" width="350" />](https://open.spotify.com/user/1199189116)
+[<img src="https://spotify-now-playing-lovat.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1199189116)
 
 
 ---
