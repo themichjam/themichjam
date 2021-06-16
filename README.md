@@ -26,7 +26,7 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 
 ---
 
-> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past or the future—it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]. - _Alan Kay_
+> There are three types of lies -- lies, damn lies, and statistics. - _Benjamin Disraeli_
 
 
 
