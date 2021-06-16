@@ -24,7 +24,11 @@ Coming soon!
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=go&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=cmake&logoColor=white&color=408f77)
+![](https://img.shields.io/badge/Code-LaTex-informational?style=flat&logo=cmake&logoColor=white&color=408f77)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=cmake&logoColor=white&color=408f77)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=cmake&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=gnu-bash&logoColor=white&color=408f77)
+
 
 ## &#x1f4c8; My GitHub Stats
 
