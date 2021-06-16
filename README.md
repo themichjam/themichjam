@@ -2,9 +2,8 @@
 #### &#x1f308; (They/Them)
 
 [![Twitter Badge](https://img.shields.io/badge/>-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=408f77&link=https://twitter.com/themichjam)](https://twitter.com/themichjam)
-![](https://img.shields.io/badge/>-Twitter-informational?style=flat&logo=linkedin&logoColor=white&color=408f77&link=https://twitter.com/themichjam)
-![](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/>-YouTube-informational?style=flat&logo=youtube&logoColor=white&color=408f77)
+[![LinkedIn Badge](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77&link=https://www.linkedin.com/in/michellekjamieson/)](https://www.linkedin.com/in/michellekjamieson/)
+[![YouTube Badge](https://img.shields.io/badge/>-YouTube-informational?style=flat&logo=youtube&logoColor=white&color=408f77&link=https://www.youtube.com/channel/UCA9g_B5hzqVul6LHzAL4NYA/featured)](https://www.youtube.com/channel/UCA9g_B5hzqVul6LHzAL4NYA/featured)
 
 I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/about-us/our-people/michelle-k-jamieson) and [PhD Researcher](https://www.gla.ac.uk/schools/socialpolitical/research/pgrstudents/michellejamieson/#researchsummary) based in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
