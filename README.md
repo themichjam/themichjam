@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-&#x1f308; (They/Them)
+#### &#x1f308; (They/Them)
 
 I'm Michelle, and I'm currently a Research Fellow and PhD Researcher in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
@@ -23,6 +23,10 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 <a href="https://github.com/themichjam/themichjam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themichjam&&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&custom_title=Overall" />
 </a>  
+
+---
+
+> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past or the future—it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]. - _Alan Kay_
 
 
 
