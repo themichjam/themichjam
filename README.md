@@ -11,6 +11,11 @@ I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/abou
 
 Apart from coding, I also maintain a website around my freelance writing - you can find my work on my website at [michellekjamieson.com](https://michellekjamieson.com/).
 
+### Blog Posts
+
+Coming soon!
+....
+
 ## 🔧 My Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=intellij-idea&logoColor=white&color=408f77)
@@ -29,7 +34,8 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 
 ## 🎧 Listening to Right Now
 
-[<img src="https://https://spotify-now-playing-themichjam.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1199189116?si=62de9b7651034960)
+[<img src="https://https://spotify-now-playing-themichjam.vercel.app/api/spotify-playing" alt="the michjam Spotify Now Playing" width="350" />]
+(https://open.spotify.com/user/1199189116?si=62de9b7651034960)
 
 
 ---
