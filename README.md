@@ -23,7 +23,10 @@ Apart from coding, I also maintain a website around my freelance writing - you c
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themichjam&&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&custom_title=Overall" />
 </a>  
 <a href="https://github.com/themichjam/themichjam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themichjam&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themichjam&layout=default&theme=dracula&custom_title=Languages Used" />
+</a>
+<a href="https://github.com/themichjam/themichjam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=themichjam&layout=default&theme=dracula" />
 </a>
 
 
