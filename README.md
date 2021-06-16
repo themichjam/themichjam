@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### &#x1f308; (They/Them)
+&#x1f308; (They/Them)
 
 I'm Michelle, and I'm currently a Research Fellow and PhD Researcher in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
