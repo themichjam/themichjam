@@ -8,7 +8,7 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 
 ## 🔧 My Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=d56888)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=intellij-idea&logoColor=white&color=d56888)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=intellij-idea&logoColor=white&color=9e526e)
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=intellij-idea&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=python&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
