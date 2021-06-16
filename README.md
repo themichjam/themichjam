@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### &#x1f308; (They/Them)
 
-<p><a href="https://www.twitter.com/themichjam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michellekjamieson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" h
+<p><a href="https://www.twitter.com/themichjam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&?style=social&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michellekjamieson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" h
 
 I'm Michelle, and I'm currently a Research Fellow and PhD Researcher in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
@@ -48,9 +48,9 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/themichjam
+[2]: https://github.com/themichjam
+[3]: https://www.linkedin.com/in/michelle-k-jamieson/
 
 
 <!-- Resources -->
