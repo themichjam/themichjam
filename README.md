@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/>-YouTube-informational?style=flat&logo=youtube&logoColor=white&color=408f77)
 
-I'm Michelle, and I'm currently a Research Fellow and PhD Researcher in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
+I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/about-us/our-people/michelle-k-jamieson) and [PhD Researcher](https://www.gla.ac.uk/schools/socialpolitical/research/pgrstudents/michellejamieson/#researchsummary) based in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
 ## &#x270d; My Website & Work
 
