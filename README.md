@@ -32,6 +32,7 @@ Coming soon!
 ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=gnu-bash&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Soft-Adobe-informational?style=flat&logo=adobe&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Soft-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=408f77)
+![](https://img.shields.io/badge/Soft-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=408f77)
 
 
 ## &#x1f4c8; My GitHub Stats
