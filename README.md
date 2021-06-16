@@ -1,8 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### &#x1f308; (They/Them)
 
-![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=408f77)
-<p><a href="https://www.twitter.com/themichjam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&?style=flat&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michellekjamieson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" h
+![](https://img.shields.io/badge/>-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=408f77)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=408f77)
 
 I'm Michelle, and I'm currently a Research Fellow and PhD Researcher in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
