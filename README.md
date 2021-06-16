@@ -42,7 +42,7 @@ Coming soon!
 
 ## 🎧 Listening to Right Now
 
-[<img src="https://https://now-playing-themichjam.vercel.app/api/spotify-playing" alt="the michjam Spotify Now Playing" width="350" />](https://open.spotify.com/user/1199189116)
+[<img src="https://https://now-playing-themichjam.vercel.app/api/spotify-playing" alt="the michjam Spotify Now Playing" width="350" />](https://open.spotify.com/user/fd728375f2a84a54)
 
 
 ---
