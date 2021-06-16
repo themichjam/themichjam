@@ -23,7 +23,7 @@ Apart from coding, I also maintain a website around my freelance writing - you c
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themichjam&&layout=compact" alt="Michelle's GitHub Stats" />
 </a>  
 <a href="https://github.com/themichjam/themichjam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themichjam&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themichjam&layout=compact" />
 </a>
 
 
