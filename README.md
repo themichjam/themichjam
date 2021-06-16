@@ -1,6 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### &#x1f308; (They/Them)
 
+[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) [
 ![](https://img.shields.io/badge/>-Twitter-informational?style=flat&logo=linkedin&logoColor=white&color=408f77&link=https://twitter.com/themichjam)
 ![](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/>-YouTube-informational?style=flat&logo=youtube&logoColor=white&color=408f77)
