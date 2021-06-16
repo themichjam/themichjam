@@ -7,7 +7,7 @@ I'm Michelle, and I'm currently a Research Fellow and PhD Researcher in Glasgow,
 Apart from coding, I also maintain a website around my freelance writing - you can find my work on my website at [michellekjamieson.com](https://michellekjamieson.com/).
 
 ## 🔧 My Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
