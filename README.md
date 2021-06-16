@@ -1,10 +1,10 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### &#x1f308; (They/Them)
 
 [![Twitter Badge](https://img.shields.io/badge/>-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=408f77&link=https://twitter.com/themichjam)](https://twitter.com/themichjam)
 [![LinkedIn Badge](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77&link=https://www.linkedin.com/in/michellekjamieson/)](https://www.linkedin.com/in/michellekjamieson/)
 [![YouTube Badge](https://img.shields.io/badge/>-YouTube-informational?style=flat&logo=youtube&logoColor=white&color=408f77&link=https://www.youtube.com/channel/UCA9g_B5hzqVul6LHzAL4NYA/featured)](https://www.youtube.com/channel/UCA9g_B5hzqVul6LHzAL4NYA/featured)
 
+#### &#x1f308; (They/Them)
 I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/about-us/our-people/michelle-k-jamieson) and [PhD Researcher](https://www.gla.ac.uk/schools/socialpolitical/research/pgrstudents/michellejamieson/#researchsummary) based in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
 
 ## &#x270d; My Website & Work
@@ -21,12 +21,16 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=cmake&logoColor=white&color=408f77)
 ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=gnu-bash&logoColor=white&color=408f77)
 
-
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/themichjam/themichjam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=themichjam&&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&custom_title=Overall" />
 </a>  
+
+## 🎧 Listening to Right Now
+
+[<img src="https://now-playing-themichjam.vercel.app/api/spotify-playing" alt="themichjam Spotify Playing" width="350" />](https://open.spotify.com/user/1199189116)
+
 
 ---
 
