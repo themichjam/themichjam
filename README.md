@@ -20,7 +20,7 @@ Apart from coding, I also maintain a website around my freelance writing - you c
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/themichjam/themichjam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=themichjam&&layout=compact&theme=dracula" alt="Michelle's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=themichjam&&layout=compact&theme=dracula&custom_title=Stats" />
 </a>  
 <a href="https://github.com/themichjam/themichjam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themichjam&layout=compact&theme=dracula" />
