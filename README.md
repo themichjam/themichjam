@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77&link=https://www.linkedin.com/in/michellekjamieson/)](https://www.linkedin.com/in/michellekjamieson/)
 [![YouTube Badge](https://img.shields.io/badge/>-YouTube-informational?style=flat&logo=youtube&logoColor=white&color=408f77&link=https://www.youtube.com/channel/UCA9g_B5hzqVul6LHzAL4NYA/featured)](https://www.youtube.com/channel/UCA9g_B5hzqVul6LHzAL4NYA/featured)
 [![Email Badge](https://img.shields.io/badge/>-Email-informational?style=flat&logo=gmail&logoColor=white&color=408f77&link=&link=mailto:rmkjamieson@gmail.com)](mailto:rmkjamieson@gmail.com)
-![Counter](https://visitor-badge.glitch.me/badge?page_id=themichjam.themichjam&style=flat&logo=person&logoColor=white&color=408f77&)
+
 
 #### &#x1f308; (They/Them)
 I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/about-us/our-people/michelle-k-jamieson) and [PhD Researcher](https://www.gla.ac.uk/schools/socialpolitical/research/pgrstudents/michellejamieson/#researchsummary) based in Glasgow, Scotland. I mostly work with health and admin type data, with an interest in mental health and inequalities.
@@ -45,7 +45,8 @@ Coming soon!
 
 ## 🎧 Listening to Right Now
 
-[<img src="https://https://now-playing-themichjam.vercel.app/api/spotify-playing" alt="the michjam Spotify Now Playing" width="350" />](https://open.spotify.com/user/1199189116)
+[<img src="https://spotify-now-playing-themichjam.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1199189116)
+
 
 
 ---
