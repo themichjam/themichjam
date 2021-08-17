@@ -11,7 +11,7 @@ I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/abou
 
 ## &#x270d; My Website & Work
 
-Apart from coding and knitting, I also maintain a website around my freelance writing - you can find my work on my website at [michellekjamieson.com](https://michellekjamieson.com/).
+Apart from coding and knitting, I also maintain a website around my freelance writing - you can find my work on my website at [themichjam.github.io](https://themichjam.github.io).
 
 ### Blog Posts
 
