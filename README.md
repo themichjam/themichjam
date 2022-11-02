@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/>-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=408f77&link=https://twitter.com/themichjam)](https://twitter.com/themichjam)
 [![LinkedIn Badge](https://img.shields.io/badge/>-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=408f77&link=https://www.linkedin.com/in/michellekjamieson/)](https://www.linkedin.com/in/michellekjamieson/)
