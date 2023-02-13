@@ -12,25 +12,6 @@ I'm Michelle, and I'm currently a [Research Fellow](https://www.scadr.ac.uk/abou
 
 Apart from coding and knitting, I also maintain a website around my freelance writing - you can find my work on my website at [themichjam.github.io](https://themichjam.github.io).
 
-## 🔧 My Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Editor-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Editor-GitHubPages-informational?style=flat&logo=githubpages&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-LaTex-informational?style=flat&logo=latex&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=gnu-bash&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Soft-Adobe-informational?style=flat&logo=adobe&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Soft-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=408f77)
-![](https://img.shields.io/badge/Soft-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=408f77)
-
-
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/themichjam/themichjam">
